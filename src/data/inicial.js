@@ -1,6 +1,6 @@
 // ─── USUÁRIOS ───
 export const USUARIOS = {
-  'ednilson@filtrosbrasil.com.br':  { nome: 'Ednilson Silva',     perfil: 'gestor',         iniciais: 'ES', senha: '123456' },
+  'ednilson.silva@filtrosbrasil.com.br':  { nome: 'Ednilson Silva',     perfil: 'gestor',         iniciais: 'ES', senha: '123456' },
   'jackeline@filtrosbrasil.com.br': { nome: 'Jackeline Brandani', perfil: 'promotora',      iniciais: 'JB', senha: '123456' },
   'nayanne@filtrosbrasil.com.br':   { nome: 'Nayanne Cristina',   perfil: 'promotora',      iniciais: 'NK', senha: '123456' },
   'roberto@filtrosbrasil.com.br':   { nome: 'Roberto Almeida',    perfil: 'representante',  iniciais: 'RA', senha: '123456' },
